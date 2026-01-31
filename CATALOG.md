@@ -323,7 +323,7 @@ Cada skill documenta:
   canonical: vercel-deployment
   overlaps_with: []
   inclusion_reason: >
-    Guía experta para desplegar en Vercel con Next.js: elección edge/serverless,
+    Guía completa y experta para desplegar en Vercel con Next.js: elección edge/serverless,
     variables por entorno, optimización de build y prevención de anti-patrones.
   exclusion_reason: null
 ```
