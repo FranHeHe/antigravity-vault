@@ -1,0 +1,3 @@
+[submodule "vendor/antigravity-marketing"]
+	path = vendor/antigravity-marketing
+	url = https://github.com/nguyenphp/antigravity-marketing.git
